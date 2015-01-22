@@ -1,0 +1,6 @@
+{
+    "require": {
+        "camspiers/json-pretty": "1.0.0",
+        "markwilson/xml-to-json": "0.1.3"
+    }
+}
